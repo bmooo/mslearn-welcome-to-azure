@@ -8,4 +8,3 @@ Set-Content `
   <iframe width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNGU1ZmQxYjEtMDQ2YS00NmQ3LWJmM2MtNzE2MTczZDUyMzRjIiwidCI6IjI4ZDBmYTc1LWY5ZjktNDAyNC05MzM3LTQ4NWQ0NmU3NTI1NyIsImMiOjEwfQ%3D%3D&amp;pageName=ReportSection" frameborder="0" allowfullscreen="true"></iframe>
   </body></html>"
 
-
